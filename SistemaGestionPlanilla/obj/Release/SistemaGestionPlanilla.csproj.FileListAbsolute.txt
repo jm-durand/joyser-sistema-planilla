@@ -1,0 +1,1167 @@
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE80.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj80.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Newtonsoft.Json.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj2.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csprojAssemblyReference.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE80.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj80.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Newtonsoft.Json.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj2.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csprojResolveAssemblyReference.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.VSHelp.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE80.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Services.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Core.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj80.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Newtonsoft.Json.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.GraphModel.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj2.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csprojResolveAssemblyReference.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE80.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj80.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Newtonsoft.Json.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj2.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+F:\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.AssemblyReference.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.AssemblyReference.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.AssemblyReference.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoIndividaul.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccion.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\ReciboCajaEventual.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEmpleados.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\BoletaPagoEventuales.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaConstruccionEventuales.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\PlanillaDestajo.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Reportes\RViewer\Cheque.rdlc
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll.config
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\SistemaGestionPlanilla.pdb
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.exe.config
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csc.rsp
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.exe
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\csi.rsp
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.AppContext.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Collections.Immutable.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.exe.config
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\vbc.rsp
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\roslyn\VBCSCompiler.exe.config
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Common.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.DataVisualization.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.Design.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebDesign.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.ReportViewer.WinForms.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.SqlServer.Types.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.Build.Framework.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\stdole.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.VSHelp.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\EnvDTE80.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.Build.Tasks.Core.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Services.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Data.Core.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj80.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Newtonsoft.Json.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.GraphModel.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.MSXML.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.Build.Utilities.Core.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\VSLangProj2.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Entidad.pdb
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\LogicaNegocio.pdb
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\AccesoDatos.pdb
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.AssemblyReference.cache
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.cache
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\RdlCompile.compiled
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CoreCompileInputs.cache
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.csproj.CopyComplete
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.dll
+E:\Desarrollo\FREELANCE\JOYSER\FUENTES\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\obj\Release\SistemaGestionPlanilla.pdb

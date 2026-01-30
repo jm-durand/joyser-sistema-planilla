@@ -1,0 +1,588 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6B51E0F-02F1-4BE6-8FB2-B424BABEDC11}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaGestionPlanilla</RootNamespace>
+    <AssemblyName>SistemaGestionPlanilla</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>50509</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
+    <IISExpressWindowsAuthentication>disabled</IISExpressWindowsAuthentication>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\fonts\flaticon\Flaticon.eot" />
+    <Content Include="assets\fonts\flaticon\Flaticon.ttf" />
+    <Content Include="assets\fonts\flaticon\Flaticon.woff" />
+    <Content Include="assets\fonts\fontawesome5\fa-brands-400.eot" />
+    <Content Include="assets\fonts\fontawesome5\fa-brands-400.ttf" />
+    <Content Include="assets\fonts\fontawesome5\fa-brands-400.woff" />
+    <Content Include="assets\fonts\fontawesome5\fa-brands-400.woff2" />
+    <Content Include="assets\fonts\fontawesome5\fa-regular-400.eot" />
+    <Content Include="assets\fonts\fontawesome5\fa-regular-400.ttf" />
+    <Content Include="assets\fonts\fontawesome5\fa-regular-400.woff" />
+    <Content Include="assets\fonts\fontawesome5\fa-regular-400.woff2" />
+    <Content Include="assets\fonts\fontawesome5\fa-solid-900.eot" />
+    <Content Include="assets\fonts\fontawesome5\fa-solid-900.ttf" />
+    <Content Include="assets\fonts\fontawesome5\fa-solid-900.woff" />
+    <Content Include="assets\fonts\fontawesome5\fa-solid-900.woff2" />
+    <Content Include="assets\fonts\line-awesome\line-awesome.eot" />
+    <Content Include="assets\fonts\line-awesome\line-awesome.ttf" />
+    <Content Include="assets\fonts\line-awesome\line-awesome.woff" />
+    <Content Include="assets\fonts\line-awesome\line-awesome.woff2" />
+    <Content Include="assets\fonts\metronic\Metronic_fda1334c35d0f5fe2afb3afebbb6774a.eot" />
+    <Content Include="assets\fonts\metronic\Metronic_fda1334c35d0f5fe2afb3afebbb6774a.ttf" />
+    <Content Include="assets\fonts\metronic\Metronic_fda1334c35d0f5fe2afb3afebbb6774a.woff" />
+    <Content Include="assets\fonts\metronic\Metronic_fda1334c35d0f5fe2afb3afebbb6774a.woff2" />
+    <Content Include="assets\fonts\socicon\socicon.eot" />
+    <Content Include="assets\fonts\socicon\socicon.ttf" />
+    <Content Include="assets\fonts\socicon\socicon.woff" />
+    <Content Include="assets\fonts\summernote\summernote.eot" />
+    <Content Include="assets\fonts\summernote\summernote.ttf" />
+    <Content Include="assets\fonts\summernote\summernote.woff" />
+    <Content Include="app.config" />
+    <Content Include="assets\js\cheques-reporte.js" />
+    <Content Include="assets\js\cheques_partial.js" />
+    <Content Include="assets\plugins\iCheck\00000002" />
+    <None Include="packages.config" />
+    <Content Include="assets\images\ajax-loader.gif" />
+    <Content Include="assets\images\bg-2.jpg" />
+    <Content Include="assets\images\bg-6.jpg" />
+    <Content Include="assets\images\construccion_logo.png" />
+    <Content Include="assets\images\favicon_construc.png" />
+    <Content Include="assets\images\Joycer1_logo.png" />
+    <Content Include="assets\images\Joycer2_logo.png" />
+    <Content Include="assets\images\loadeing_planilla.gif" />
+    <Content Include="assets\images\loader-gif-transparent-animated-8.gif" />
+    <Content Include="assets\images\logossss.png" />
+    <Content Include="assets\images\logo_client_white.png" />
+    <Content Include="assets\images\odoo-construction-management.jpg" />
+    <Content Include="assets\js\basic.js" />
+    <Content Include="assets\js\bootstrap-datepicker.js" />
+    <Content Include="assets\js\bootstrap-daterangepicker.js" />
+    <Content Include="assets\js\bootstrap-select.js" />
+    <Content Include="assets\js\cheques.js" />
+    <Content Include="assets\js\jquery-3.2.1.js" />
+    <Content Include="assets\js\jquery.cookie.js" />
+    <Content Include="assets\js\login.js" />
+    <Content Include="assets\js\select2.js" />
+    <Content Include="assets\js\wizard-eventuales.js" />
+    <Content Include="assets\js\wizard.js" />
+    <Content Include="assets\plugins\datatables\datatables.bundle.css" />
+    <Content Include="assets\plugins\datatables\datatables.bundle.js" />
+    <Content Include="assets\plugins\datatables\datatables.bundle.rtl.css" />
+    <Content Include="assets\plugins\fileinput\es.js" />
+    <Content Include="assets\plugins\fileinput\fileinput-rtl.css" />
+    <Content Include="assets\plugins\fileinput\fileinput-rtl.min.css" />
+    <Content Include="assets\plugins\fileinput\fileinput.css" />
+    <Content Include="assets\plugins\fileinput\fileinput.js" />
+    <Content Include="assets\plugins\fileinput\fileinput.min.css" />
+    <Content Include="assets\plugins\fileinput\fileinput.min.js" />
+    <Content Include="assets\plugins\fileinput\LANG.js" />
+    <Content Include="assets\plugins\fileinput\theme.css" />
+    <Content Include="assets\plugins\fileinput\theme.js" />
+    <Content Include="assets\plugins\iCheck\custom.css" />
+    <Content Include="assets\plugins\iCheck\green%402x.png" />
+    <Content Include="assets\plugins\iCheck\green.png" />
+    <Content Include="assets\plugins\iCheck\icheck.min.js" />
+    <Content Include="CentroCostos\AsignacionTrabajadoresProyecto.aspx" />
+    <Content Include="CentroCostos\RegistroProyectos.aspx" />
+    <Content Include="Cheques\RegistroCheques.aspx" />
+    <Content Include="Contratistas\ContratistasRegistroContrato.aspx" />
+    <Content Include="Contratistas\ContratistasRegistroPagos.aspx" />
+    <Content Include="Contratistas\RegistrarContratista.aspx" />
+    <Content Include="Mantenimiento\Aportaciones.aspx" />
+    <Content Include="Mantenimiento\LaborTrabajador.aspx" />
+    <Content Include="Mantenimiento\PerfilPlanilla.aspx" />
+    <Content Include="Mantenimiento\Servicios.aspx" />
+    <Content Include="Mantenimiento\UsuariosInterno.aspx" />
+    <Content Include="Planilla\GenerarPlanillaEmpleados.aspx" />
+    <Content Include="Planilla\GenerarPlanillaEventuales.aspx" />
+    <Content Include="Planilla\GenerarPlanillaIndividual.aspx" />
+    <Content Include="Planilla\GenerarServicioEventuales.aspx" />
+    <Content Include="Proveedores\ProveedoresRegistrar.aspx" />
+    <Content Include="Proveedores\ProveedoresRegistroPagos.aspx" />
+    <Content Include="Proveedores\ProveedoresRegistroProyecto.aspx" />
+    <Content Include="Reportes\ReporteChequesPago.aspx" />
+    <Content Include="Reportes\ReporteListadoPlanilla.aspx" />
+    <Content Include="Reportes\ReporteTrabajadorPlanilla.aspx" />
+    <Content Include="Seguridad\Login.aspx" />
+    <Content Include="Seguridad\Logout.aspx" />
+    <Content Include="Site1.Master" />
+    <Content Include="PlanillaDataSet.xsc">
+      <DependentUpon>PlanillaDataSet.xsd</DependentUpon>
+    </Content>
+    <None Include="PlanillaDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PlanillaDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="PlanillaDataSet.xss">
+      <DependentUpon>PlanillaDataSet.xsd</DependentUpon>
+    </Content>
+    <None Include="Properties\PublishProfiles\COMPILADO.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\css\style.bundle.css" />
+    <Content Include="assets\css\vendors.bundle.css" />
+    <Content Include="assets\fonts\flaticon\Flaticon.svg" />
+    <Content Include="assets\fonts\fontawesome5\fa-brands-400.svg" />
+    <Content Include="assets\fonts\fontawesome5\fa-regular-400.svg" />
+    <Content Include="assets\fonts\fontawesome5\fa-solid-900.svg" />
+    <Content Include="assets\fonts\line-awesome\line-awesome.svg" />
+    <Content Include="assets\fonts\metronic\Metronic_fda1334c35d0f5fe2afb3afebbb6774a.svg" />
+    <Content Include="assets\fonts\socicon\socicon.svg" />
+    <Content Include="assets\images\favicon.ico" />
+    <Content Include="assets\images\flags\001-austria.svg" />
+    <Content Include="assets\images\flags\002-belgium.svg" />
+    <Content Include="assets\images\flags\003-switzerland.svg" />
+    <Content Include="assets\images\flags\004-indonesia.svg" />
+    <Content Include="assets\images\flags\005-portugal.svg" />
+    <Content Include="assets\images\flags\006-turkey.svg" />
+    <Content Include="assets\images\flags\007-malasya.svg" />
+    <Content Include="assets\images\flags\008-saudi-arabia.svg" />
+    <Content Include="assets\images\flags\009-australia.svg" />
+    <Content Include="assets\images\flags\010-india.svg" />
+    <Content Include="assets\images\flags\011-brazil.svg" />
+    <Content Include="assets\images\flags\012-uk.svg" />
+    <Content Include="assets\images\flags\013-russia.svg" />
+    <Content Include="assets\images\flags\014-japan.svg" />
+    <Content Include="assets\images\flags\015-china.svg" />
+    <Content Include="assets\images\flags\016-spain.svg" />
+    <Content Include="assets\images\flags\017-germany.svg" />
+    <Content Include="assets\images\flags\018-south-korea.svg" />
+    <Content Include="assets\images\flags\019-france.svg" />
+    <Content Include="assets\images\flags\020-flag.svg" />
+    <Content Include="assets\images\ion-rangeslider\sprite-skin-flat.png" />
+    <Content Include="assets\images\jstree\32px.png" />
+    <Content Include="assets\images\jstree\40px.png" />
+    <Content Include="assets\images\jstree\throbber.gif" />
+    <Content Include="assets\images\logo_default_dark.png" />
+    <Content Include="assets\images\notification_bg.jpg" />
+    <Content Include="assets\images\owl.carousel\ajax-loader.gif" />
+    <Content Include="assets\images\owl.carousel\owl.video.play.png" />
+    <Content Include="assets\images\quick_actions_bg.jpg" />
+    <Content Include="assets\images\user4.jpg" />
+    <Content Include="assets\images\user_profile_bg.jpg" />
+    <Content Include="assets\js\dashboard.js" />
+    <Content Include="assets\js\scripts.bundle.js" />
+    <Content Include="assets\js\vendors.bundle.js" />
+    <Content Include="assets\plugins\fullcalendar\fullcalendar.bundle.css" />
+    <Content Include="assets\plugins\fullcalendar\fullcalendar.bundle.js" />
+    <Content Include="assets\plugins\fullcalendar\fullcalendar.bundle.rtl.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Trabajador\RegistroEventuales.aspx" />
+    <Content Include="Trabajador\RegistroTrabajador.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CentroCostos\AsignacionTrabajadoresProyecto.aspx.cs">
+      <DependentUpon>AsignacionTrabajadoresProyecto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CentroCostos\AsignacionTrabajadoresProyecto.aspx.designer.cs">
+      <DependentUpon>AsignacionTrabajadoresProyecto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CentroCostos\RegistroProyectos.aspx.cs">
+      <DependentUpon>RegistroProyectos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CentroCostos\RegistroProyectos.aspx.designer.cs">
+      <DependentUpon>RegistroProyectos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cheques\RegistroCheques.aspx.cs">
+      <DependentUpon>RegistroCheques.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cheques\RegistroCheques.aspx.designer.cs">
+      <DependentUpon>RegistroCheques.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contratistas\ContratistasRegistroContrato.aspx.cs">
+      <DependentUpon>ContratistasRegistroContrato.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contratistas\ContratistasRegistroContrato.aspx.designer.cs">
+      <DependentUpon>ContratistasRegistroContrato.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contratistas\ContratistasRegistroPagos.aspx.cs">
+      <DependentUpon>ContratistasRegistroPagos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contratistas\ContratistasRegistroPagos.aspx.designer.cs">
+      <DependentUpon>ContratistasRegistroPagos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contratistas\RegistrarContratista.aspx.cs">
+      <DependentUpon>RegistrarContratista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contratistas\RegistrarContratista.aspx.designer.cs">
+      <DependentUpon>RegistrarContratista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\Aportaciones.aspx.cs">
+      <DependentUpon>Aportaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\Aportaciones.aspx.designer.cs">
+      <DependentUpon>Aportaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\LaborTrabajador.aspx.cs">
+      <DependentUpon>LaborTrabajador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\LaborTrabajador.aspx.designer.cs">
+      <DependentUpon>LaborTrabajador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\PerfilPlanilla.aspx.cs">
+      <DependentUpon>PerfilPlanilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\PerfilPlanilla.aspx.designer.cs">
+      <DependentUpon>PerfilPlanilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\Servicios.aspx.cs">
+      <DependentUpon>Servicios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\Servicios.aspx.designer.cs">
+      <DependentUpon>Servicios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\UsuariosInterno.aspx.cs">
+      <DependentUpon>UsuariosInterno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\UsuariosInterno.aspx.designer.cs">
+      <DependentUpon>UsuariosInterno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanillaDataSet.cs">
+      <DependentUpon>PlanillaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PlanillaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PlanillaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaEmpleados.aspx.cs">
+      <DependentUpon>GenerarPlanillaEmpleados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaEmpleados.aspx.designer.cs">
+      <DependentUpon>GenerarPlanillaEmpleados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaEventuales.aspx.cs">
+      <DependentUpon>GenerarPlanillaEventuales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaEventuales.aspx.designer.cs">
+      <DependentUpon>GenerarPlanillaEventuales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaIndividual.aspx.cs">
+      <DependentUpon>GenerarPlanillaIndividual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Planilla\GenerarPlanillaIndividual.aspx.designer.cs">
+      <DependentUpon>GenerarPlanillaIndividual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Planilla\GenerarServicioEventuales.aspx.cs">
+      <DependentUpon>GenerarServicioEventuales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Planilla\GenerarServicioEventuales.aspx.designer.cs">
+      <DependentUpon>GenerarServicioEventuales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistrar.aspx.cs">
+      <DependentUpon>ProveedoresRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistrar.aspx.designer.cs">
+      <DependentUpon>ProveedoresRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistroPagos.aspx.cs">
+      <DependentUpon>ProveedoresRegistroPagos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistroPagos.aspx.designer.cs">
+      <DependentUpon>ProveedoresRegistroPagos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistroProyecto.aspx.cs">
+      <DependentUpon>ProveedoresRegistroProyecto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Proveedores\ProveedoresRegistroProyecto.aspx.designer.cs">
+      <DependentUpon>ProveedoresRegistroProyecto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteChequesPago.aspx.cs">
+      <DependentUpon>ReporteChequesPago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteChequesPago.aspx.designer.cs">
+      <DependentUpon>ReporteChequesPago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteListadoPlanilla.aspx.cs">
+      <DependentUpon>ReporteListadoPlanilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteListadoPlanilla.aspx.designer.cs">
+      <DependentUpon>ReporteListadoPlanilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteTrabajadorPlanilla.aspx.cs">
+      <DependentUpon>ReporteTrabajadorPlanilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteTrabajadorPlanilla.aspx.designer.cs">
+      <DependentUpon>ReporteTrabajadorPlanilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seguridad\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Seguridad\Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Trabajador\RegistroEventuales.aspx.cs">
+      <DependentUpon>RegistroEventuales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trabajador\RegistroEventuales.aspx.designer.cs">
+      <DependentUpon>RegistroEventuales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Trabajador\RegistroTrabajador.aspx.cs">
+      <DependentUpon>RegistroTrabajador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Trabajador\RegistroTrabajador.aspx.designer.cs">
+      <DependentUpon>RegistroTrabajador.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reportes\RViewer\BoletaPagoIndividaul.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reportes\RViewer\PlanillaConstruccion.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reportes\RViewer\ReciboCajaEventual.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reportes\RViewer\BoletaPagoEmpleados.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reportes\RViewer\BoletaPagoEventuales.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reportes\RViewer\PlanillaConstruccionEmpleados.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reportes\RViewer\PlanillaConstruccionEventuales.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Reportes\RViewer\PlanillaDestajo.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Reportes\RViewer\Cheque.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\SISTEMA INVENTARIO\FUENTE\SistemaGestionInventario\Entidad\Entidad.csproj">
+      <Project>{2a1a0167-985b-4ecc-8e96-d76d7912d4a2}</Project>
+      <Name>Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\SISTEMA INVENTARIO\FUENTE\SistemaGestionInventario\LogicaNegocio\LogicaNegocio.csproj">
+      <Project>{a27864cc-a222-4e1a-9a94-a05e5d6506b5}</Project>
+      <Name>LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50509</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50509/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+          <servers defaultServer="">
+            <server name="SelfHostServer" exePath="" cmdArgs="" url="http://localhost:50509/" workingDir="" />
+          </servers>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

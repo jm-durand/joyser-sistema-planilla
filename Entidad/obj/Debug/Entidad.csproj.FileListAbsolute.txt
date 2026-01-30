@@ -1,0 +1,51 @@
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\bin\Debug\Entidad.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\Entidad\obj\Debug\Entidad.pdb

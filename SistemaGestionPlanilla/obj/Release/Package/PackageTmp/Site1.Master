@@ -1,0 +1,501 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SistemaGestionPlanilla.Site1" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+	<meta charset="utf-8" />
+	<title>Sistema Gestion Planilla | SGP</title>
+	<meta name="description" content="Latest updates and statistic charts">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+	<!--begin::Web font -->
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				"families": ["Poppins:300,400,500,600,700", "Roboto:300,400,500,600,700"]
+			},
+			active: function() {
+				sessionStorage.fonts = true;
+			}
+		});
+	</script>
+    <link rel="shortcut icon" href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/images/favicon_construc.png" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/fileinput.min.css" rel="stylesheet" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/fileinput-rtl.min.css" rel="stylesheet" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/theme.css" rel="stylesheet" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/datatables/datatables.bundle.css" rel="stylesheet" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/iCheck/custom.css" rel="stylesheet" type="text/css" />
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/css/vendors.bundle.css" rel="stylesheet">
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/css/style.bundle.css" rel="stylesheet">
+    <link href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/css/style.css" rel="stylesheet">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="m-page--fluid m--skin- m-content--skin-light2 m-header--fixed m-header--fixed-mobile m-aside-left--enabled m-aside-left--skin-dark m-aside-left--fixed m-aside-left--offcanvas m-footer--push m-aside--offcanvas-default">
+    <div class="m-grid m-grid--hor m-grid--root m-page">
+        <header id="m_header" class="m-grid__item    m-header " m-minimize-offset="200" m-minimize-mobile-offset="200">
+            <div class="m-container m-container--fluid m-container--full-height">
+                <div class="m-stack m-stack--ver m-stack--desktop">
+
+                    <!-- BEGIN: Brand -->
+                    <div class="m-stack__item m-brand  m-brand--skin-dark ">
+                        <div class="m-stack m-stack--ver m-stack--general">
+                            <div class="m-stack__item m-stack__item--middle m-brand__logo">
+                                <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/Inicio.aspx" class="m-brand__logo-wrapper">
+                                    <img alt="" src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/images/Joycer2_logo.png" />
+                                </a>
+                            </div>
+                            <div class="m-stack__item m-stack__item--middle m-brand__tools">
+
+                                <!-- BEGIN: Left Aside Minimize Toggle -->
+                                <a href="javascript:;" id="m_aside_left_minimize_toggle" class="m-brand__icon m-brand__toggler m-brand__toggler--left m--visible-desktop-inline-block  ">
+                                    <span></span>
+                                </a>
+
+                                <!-- END -->
+
+                                <!-- BEGIN: Responsive Aside Left Menu Toggler -->
+                                <a href="javascript:;" id="m_aside_left_offcanvas_toggle" class="m-brand__icon m-brand__toggler m-brand__toggler--left m--visible-tablet-and-mobile-inline-block">
+                                    <span></span>
+                                </a>
+
+                                <!-- END -->
+
+                                <!-- BEGIN: Responsive Header Menu Toggler -->
+                                <a id="m_aside_header_menu_mobile_toggle" href="javascript:;" class="m-brand__icon m-brand__toggler m--visible-tablet-and-mobile-inline-block">
+                                    <span></span>
+                                </a>
+
+                                <!-- END -->
+
+                                <!-- BEGIN: Topbar Toggler -->
+                                <a id="m_aside_header_topbar_mobile_toggle" href="javascript:;" class="m-brand__icon m--visible-tablet-and-mobile-inline-block">
+                                    <i class="flaticon-more"></i>
+                                </a>
+
+                                <!-- BEGIN: Topbar Toggler -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- END: Brand -->
+                    <div class="m-stack__item m-stack__item--fluid m-header-head" id="m_header_nav">
+
+                        <!-- BEGIN: Horizontal Menu -->
+                        <button class="m-aside-header-menu-mobile-close  m-aside-header-menu-mobile-close--skin-dark " id="m_aside_header_menu_mobile_close_btn">
+                            <i class="la la-close"></i>
+                        </button>                     
+
+                        <!-- END: Horizontal Menu -->
+
+                        <!-- BEGIN: Topbar -->
+                        <div id="m_header_topbar" class="m-topbar  m-stack m-stack--ver m-stack--general m-stack--fluid">
+                            <div class="m-stack__item m-topbar__nav-wrapper">
+                                <ul class="m-topbar__nav m-nav m-nav--inline">                     
+                                    <li class="m-nav__item m-topbar__languages m-dropdown m-dropdown--small m-dropdown--arrow m-dropdown--align-right m-dropdown--mobile-full-width">
+                                        <a href="#" class="m-nav__link m-dropdown__toggle">
+                                            <span class="m-nav__link-text">
+                                                <label class="m-alert__text">
+                                                    Sistema de Gestión de Planilla
+                                                </label>
+                                            </span>
+                                            <asp:Label runat="server" ID="NombreCompletoUsuarioInterno" style="display:none"></asp:Label>
+                                        </a>                                        
+                                    </li>                           
+                                    <li id="m_quick_sidebar_toggle" class="m-nav__item">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/Seguridad/Logout.aspx" class="m-nav__link m-dropdown__toggle" style="padding-top:23px">
+                                            <span class="" >
+                                             
+                                                <i class="la la-sign-out"></i>Salir
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- END: Topbar -->
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="m-grid__item m-grid__item--fluid m-grid m-grid--ver-desktop m-grid--desktop m-body">
+            <button class="m-aside-left-close  m-aside-left-close--skin-dark " id="m_aside_left_close_btn">
+                <i class="la la-close"></i>
+            </button>
+
+            <div id="m_aside_left" class="m-grid__item	m-aside-left  m-aside-left--skin-dark ">
+
+                <!-- BEGIN: Aside Menu -->
+                <div id="m_ver_menu" class="m-aside-menu  m-aside-menu--skin-dark m-aside-menu--submenu-skin-dark " m-menu-vertical="1" m-menu-scrollable="1" m-menu-dropdown-timeout="500" style="position: relative;">
+                    <ul class="m-menu__nav  m-menu__nav--dropdown-submenu-arrow ">
+                        <li class="m-menu__item  " aria-haspopup="true" id="navMenuInicio" runat="server" >
+                            <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/Inicio.aspx" class="m-menu__link ">
+                                <i class="m-menu__link-icon flaticon-line-graph"></i>
+                                <span class="m-menu__link-title">
+                                    <span class="m-menu__link-wrap">
+                                        <span class="m-menu__link-text">Inicio</span>
+                                    </span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="m-menu__section " >
+                            <h4 class="m-menu__section-text">Menu</h4>
+                            <i class="m-menu__section-icon flaticon-more-v2"></i>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuTrabajadores" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-users"></i>
+                                <span class="m-menu__link-text">Trabajadores</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAgregarTrabajador" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/trabajador/registrotrabajador.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Agregar trabajador</span>
+                                        </a>
+                                    </li>
+                                     <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAgregarEventuales" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/trabajador/registroeventuales.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Eventuales</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuProyecto" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-analytics"></i>
+                                <span class="m-menu__link-text">Centro de costos</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAgregarProyecto" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/centrocostos/registroproyectos.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Proyectos</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAsignacionTrabajadores" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/centrocostos/asignaciontrabajadoresproyecto.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Asignación</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuContratistas" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-folder-2"></i>
+                                <span class="m-menu__link-text">Contratistas</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAgregarContratistas" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/contratistas/registrarcontratista.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Agregar</span>
+                                        </a>
+                                    </li>
+                                      <li class="m-menu__item" aria-haspopup="true" id="navSubMenuContratosContratistas" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/contratistas/contratistasregistrocontrato.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Contratos</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPagoContratistas" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/contratistas/contratistasregistropagos.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Pagos</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuProveedores" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-truck"></i>
+                                <span class="m-menu__link-text">Proveedores</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAgregarProveedores" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/proveedores/proveedoresregistrar.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Agregar</span>
+                                        </a>
+                                    </li>
+                                      <li class="m-menu__item" aria-haspopup="true" id="navSubMenuProyectoProveedores" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/proveedores/proveedoresregistroproyecto.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Proyectos</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPagoProveedores" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/proveedores/proveedoresregistropagos.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Pagos</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuCheques" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-notes"></i>
+                                <span class="m-menu__link-text">Cheques</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuRegistroCheques" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/cheques/registrocheques.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Generar</span>
+                                        </a>
+                                    </li>                                 
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuPlanilla" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-piggy-bank"></i>
+                                <span class="m-menu__link-text">Planilla</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuGenerarPlanillaIndividual" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/planilla/generarplanillaindividual.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Construcción Civil</span>
+                                        </a>
+                                    </li>
+                                      <li class="m-menu__item" aria-haspopup="true" id="navSubMenuGenerarEventuales" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/planilla/generarplanillaeventuales.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Eventuales</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuGenerarDestajo" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/planilla/generarservicioeventuales.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Destajo</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuGenerarEmpleados" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/planilla/generarplanillaempleados.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Empleados</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>         
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuReportes" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-interface-1"></i>
+                                <span class="m-menu__link-text">Reportes</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPlanillaReportesListado" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/reportes/ReporteListadoPlanilla.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Reporte Planilla Masivo</span>
+                                        </a>
+                                    </li>
+                                     <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPlanillaReporteTrabajador" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/reportes/ReporteTrabajadorPlanilla.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Reporte Boletas de pago</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPlanillaReporteCheques" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/reportes/ReporteChequesPago.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Reporte Cheques de pago</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="m-menu__item  m-menu__item--submenu" id="navMenuMantenimiento" runat="server" aria-haspopup="true">
+                            <a href="javascript:;" class="m-menu__link m-menu__toggle">
+                                <i class="m-menu__link-icon flaticon-interface-9"></i>
+                                <span class="m-menu__link-text">Mantenimiento</span>
+                                <i class="m-menu__ver-arrow la la-angle-right"></i>
+                            </a>
+                            <div class="m-menu__submenu ">
+                                <span class="m-menu__arrow"></span>
+                                <ul class="m-menu__subnav">
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuPerfilPlanilla" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/mantenimiento/perfilplanilla.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Perfil Planilla</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuAportaciones" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/mantenimiento/aportaciones.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Aportaciones</span>
+                                        </a>
+                                    </li>
+                                     <li class="m-menu__item" aria-haspopup="true" id="navSubMenuLaborTrabajo" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/mantenimiento/labortrabajador.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Labor Trabajador</span>
+                                        </a>
+                                    </li>
+                                    <li class="m-menu__item" aria-haspopup="true" id="navSubMenuServicios" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/mantenimiento/servicios.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Servicios</span>
+                                        </a>
+                                    </li>
+                                     <li class="m-menu__item" aria-haspopup="true" id="navSubMenuUsuarioInterno" runat="server">
+                                        <a href="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/mantenimiento/usuariosinterno.aspx" class="m-menu__link ">
+                                            <i class="m-menu__link-bullet m-menu__link-bullet--dot">
+                                                <span></span>
+                                            </i>
+                                            <span class="m-menu__link-text">Usuarios</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>                          
+                    </ul>
+                </div>
+
+                <!-- END: Aside Menu -->
+            </div>
+            <form id="m_form" style="width: 100%" runat="server">
+                <asp:ScriptManager ID="ScriptManager1" runat="server" />
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </form>
+        </div>
+        <footer class="m-grid__item		m-footer ">
+            <div class="m-container m-container--fluid m-container--full-height m-page__container">
+                <div class="m-stack m-stack--flex-tablet-and-mobile m-stack--ver m-stack--desktop">
+                    <div class="m-stack__item m-stack__item--left m-stack__item--middle m-stack__item--last">
+                        <span class="m-footer__copyright"><%=DateTime.Now.Year %> Tecnología Comunicaciones & Sistemas
+								<a href="http://34.205.1.82/" class="m-link">SGP</a>
+                        </span>
+                    </div>
+                    <div class="m-stack__item m-stack__item--right m-stack__item--middle m-stack__item--first">
+                        <ul class="m-footer__nav m-nav m-nav--inline m--pull-right">
+                           
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <div id="m_scroll_top" class="m-scroll-top">
+        <i class="la la-arrow-up"></i>
+    </div>
+    <%--<ul class="m-nav-sticky" style="margin-top: 30px;">
+        <li class="m-nav-sticky__item" data-toggle="m-tooltip" title="Purchase" data-placement="left">
+            <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" target="_blank">
+                <i class="la la-cart-arrow-down"></i>
+            </a>
+        </li>
+        <li class="m-nav-sticky__item" data-toggle="m-tooltip" title="Documentation" data-placement="left">
+            <a href="https://keenthemes.com/metronic/documentation.html" target="_blank">
+                <i class="la la-code-fork"></i>
+            </a>
+        </li>
+        <li class="m-nav-sticky__item" data-toggle="m-tooltip" title="Support" data-placement="left">
+            <a href="https://keenthemes.com/forums/forum/support/metronic5/" target="_blank">
+                <i class="la la-life-ring"></i>
+            </a>
+        </li>
+    </ul>--%>
+    <!--begin::Base Scripts -->
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/vendors.bundle.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/scripts.bundle.js" type="text/javascript"></script>
+
+    <!--end::Base Scripts -->
+
+    <!--begin::Page Vendors Scripts -->
+
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/jquery.cookie.js"></script> 
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/bootstrap-datepicker.js" type="text/javascript"></script>
+   <%-- <script src="/assets/js/bootstrap-daterangepicker.js" type="text/javascript"></script>--%>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/select2.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/fileinput.min.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/LANG.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/es.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/fileinput/theme.js" type="text/javascript"></script>
+	<script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/datatables/datatables.bundle.js" type="text/javascript"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/plugins/iCheck/icheck.min.js"></script>
+    <script src="<%=ConfigurationManager.AppSettings["AssetsUrl"]%>/assets/js/basic.js" type="text/javascript"></script>
+    <!--end::Page Vendors Scripts -->
+
+    <!--begin::Page Snippets -->
+
+
+</body>
+</html>

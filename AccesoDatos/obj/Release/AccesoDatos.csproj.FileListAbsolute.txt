@@ -1,0 +1,36 @@
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\bin\Release\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\AccesoDatos\obj\Release\AccesoDatos.pdb

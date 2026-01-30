@@ -1,0 +1,121 @@
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\juan\Desktop\JoMa2018\Proyecto Planilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\juan\Downloads\PROYECTO PLANILLA\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\JOSE MARIA\D\Nuevo vol\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+N:\Jose Durand\Planilla\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+D:\Proyectos\Desarrollo\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+H:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\bin\Debug\Entidad.pdb
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+F:\JM_BU\FREELANCE\.NET\SISTEMA PLANILLA\FUENTE\SistemaGestionPlanilla\SistemaGestionPlanilla\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
